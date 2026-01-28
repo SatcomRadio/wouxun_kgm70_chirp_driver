@@ -1,6 +1,6 @@
-# Chirp driver for the Wouxun KG-UV8P
+# Chirp driver for the Wouxun KG-M70
 
-This repo consists of a chirp driver for controlling the Wouxun KG-UV8P radio
+This repo consists of a chirp driver for controlling the Wouxun KG-M70 radio
 
 <img src="./doc/m70.png" alt="KG-M70 Radio" width="400"/>
 
