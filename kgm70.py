@@ -884,7 +884,7 @@ class KGM70Radio(chirp_common.CloneModeRadio,
         rf.valid_power_levels = self.POWER_LEVELS
         rf.valid_name_length = 8
         rf.valid_duplexes = ["", "-", "+", "split", "off"]
-        rf.valid_bands = [(130000000, 18500000),  # supports 2m
+        rf.valid_bands = [(130000000, 185000000),  # supports 2m
                           (230000000, 580000000)]  # supports 1m
         rf.valid_characters = chirp_common.CHARSET_ASCII
         rf.memory_bounds = (1, 999)  # 999 memories
